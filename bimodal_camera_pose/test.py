@@ -23,6 +23,7 @@ device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cp
 @torch.no_grad()
 def main():
     args = OptionsTest().parse()
+    # Replace with the absolute path for "posenet.tar"
     args.pretrained_posenet = '/Users/zhiguoma/Desktop/master/homework/image_understanding/final/simcol/bimodal_camera_pose/trained_models/posenet_binned/posenet.tar'
 
     args.fs = 256
