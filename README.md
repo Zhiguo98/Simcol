@@ -9,3 +9,7 @@
 4.Download the pretrained model from https://drive.google.com/file/d/1aHWPqS1X8v-T2V9ssqO-qz7R-e6xf5GB/view?usp=share_link and save it to bimodal_camera_pose/trained_models/posenet_binned.
 
 5.Run this command: python test.py /path/to/SyntheticColon_I --test-file /path/to/test_file.txt
+
+Reference
+
+Barbed, O. León, José MM Montiel, Pascal Fua, and Ana C. Murillo. "Tracking Adaptation to Improve SuperPoint for 3D Reconstruction in Endoscopy." In International Conference on Medical Image Computing and Computer-Assisted Intervention, pp. 583-593. Cham: Springer Nature Switzerland, 2023.
