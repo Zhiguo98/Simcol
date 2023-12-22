@@ -12,4 +12,5 @@
 
 Reference
 
-Barbed, O. León, José MM Montiel, Pascal Fua, and Ana C. Murillo. "Tracking Adaptation to Improve SuperPoint for 3D Reconstruction in Endoscopy." In International Conference on Medical Image Computing and Computer-Assisted Intervention, pp. 583-593. Cham: Springer Nature Switzerland, 2023.
+Rau, Anita, Binod Bhattarai, Lourdes Agapito, and Danail Stoyanov. "Bimodal camera pose prediction for endoscopy." IEEE Transactions on Medical Robotics and Bionics (2023).
+
