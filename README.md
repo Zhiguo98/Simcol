@@ -10,7 +10,7 @@
 
 5.Run this command: python test.py /path/to/SyntheticColon_I --test-file /path/to/test_file.txt
 
-Reference
+Reference:
 
 Rau, Anita, Binod Bhattarai, Lourdes Agapito, and Danail Stoyanov. "Bimodal camera pose prediction for endoscopy." IEEE Transactions on Medical Robotics and Bionics (2023).
 
